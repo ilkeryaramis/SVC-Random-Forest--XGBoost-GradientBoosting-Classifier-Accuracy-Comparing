@@ -2,6 +2,7 @@
 
 
 In this repository, we use titanic data set and compare the accuracy performance of the following algorithms
+
       Support Vector Machine Classifier (SVC)
       Random Forest Classifier
       XG Boost Classifier
